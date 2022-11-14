@@ -1,0 +1,12 @@
+.header {
+    grid-column: span 3;
+    background-color: rgb(57,72,122);
+    display: grid;
+    grid-template-columns: inherit;
+    justify-items: center;
+    align-items: center;
+    padding: 0 2rem;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+}

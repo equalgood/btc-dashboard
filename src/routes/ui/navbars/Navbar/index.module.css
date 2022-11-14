@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    background-color: rgb(57,72,122);
+    padding: 3rem 3rem;
+}

@@ -1,0 +1,11 @@
+.history {
+    background-color: rgb(222,222,222);
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.recent-actions__list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}

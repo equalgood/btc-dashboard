@@ -1,0 +1,18 @@
+.logo {
+    justify-self: start;
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo__icon {
+    width: 4rem;
+    height: 4rem;
+    background-color: white;
+    border-radius: 50%;
+    border: solid 1px #f90;
+}
